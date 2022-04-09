@@ -1,0 +1,14 @@
+C:\temp\ws-vs2022\ExercicioFVetores\ExercicioFVetores\bin\Debug\netcoreapp3.1\ExercicioFVetores.exe
+C:\temp\ws-vs2022\ExercicioFVetores\ExercicioFVetores\bin\Debug\netcoreapp3.1\ExercicioFVetores.deps.json
+C:\temp\ws-vs2022\ExercicioFVetores\ExercicioFVetores\bin\Debug\netcoreapp3.1\ExercicioFVetores.runtimeconfig.json
+C:\temp\ws-vs2022\ExercicioFVetores\ExercicioFVetores\bin\Debug\netcoreapp3.1\ExercicioFVetores.runtimeconfig.dev.json
+C:\temp\ws-vs2022\ExercicioFVetores\ExercicioFVetores\bin\Debug\netcoreapp3.1\ExercicioFVetores.dll
+C:\temp\ws-vs2022\ExercicioFVetores\ExercicioFVetores\bin\Debug\netcoreapp3.1\ExercicioFVetores.pdb
+C:\temp\ws-vs2022\ExercicioFVetores\ExercicioFVetores\obj\Debug\netcoreapp3.1\ExercicioFVetores.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ExercicioFVetores\ExercicioFVetores\obj\Debug\netcoreapp3.1\ExercicioFVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ExercicioFVetores\ExercicioFVetores\obj\Debug\netcoreapp3.1\ExercicioFVetores.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ExercicioFVetores\ExercicioFVetores\obj\Debug\netcoreapp3.1\ExercicioFVetores.AssemblyInfo.cs
+C:\temp\ws-vs2022\ExercicioFVetores\ExercicioFVetores\obj\Debug\netcoreapp3.1\ExercicioFVetores.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ExercicioFVetores\ExercicioFVetores\obj\Debug\netcoreapp3.1\ExercicioFVetores.dll
+C:\temp\ws-vs2022\ExercicioFVetores\ExercicioFVetores\obj\Debug\netcoreapp3.1\ExercicioFVetores.pdb
+C:\temp\ws-vs2022\ExercicioFVetores\ExercicioFVetores\obj\Debug\netcoreapp3.1\ExercicioFVetores.genruntimeconfig.cache

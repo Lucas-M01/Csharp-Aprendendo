@@ -1,0 +1,14 @@
+C:\temp\ws-vs2022\ExercicioFConta\ExercicioFConta\bin\Debug\netcoreapp3.1\ExercicioFConta.exe
+C:\temp\ws-vs2022\ExercicioFConta\ExercicioFConta\bin\Debug\netcoreapp3.1\ExercicioFConta.deps.json
+C:\temp\ws-vs2022\ExercicioFConta\ExercicioFConta\bin\Debug\netcoreapp3.1\ExercicioFConta.runtimeconfig.json
+C:\temp\ws-vs2022\ExercicioFConta\ExercicioFConta\bin\Debug\netcoreapp3.1\ExercicioFConta.runtimeconfig.dev.json
+C:\temp\ws-vs2022\ExercicioFConta\ExercicioFConta\bin\Debug\netcoreapp3.1\ExercicioFConta.dll
+C:\temp\ws-vs2022\ExercicioFConta\ExercicioFConta\bin\Debug\netcoreapp3.1\ExercicioFConta.pdb
+C:\temp\ws-vs2022\ExercicioFConta\ExercicioFConta\obj\Debug\netcoreapp3.1\ExercicioFConta.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ExercicioFConta\ExercicioFConta\obj\Debug\netcoreapp3.1\ExercicioFConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ExercicioFConta\ExercicioFConta\obj\Debug\netcoreapp3.1\ExercicioFConta.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ExercicioFConta\ExercicioFConta\obj\Debug\netcoreapp3.1\ExercicioFConta.AssemblyInfo.cs
+C:\temp\ws-vs2022\ExercicioFConta\ExercicioFConta\obj\Debug\netcoreapp3.1\ExercicioFConta.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ExercicioFConta\ExercicioFConta\obj\Debug\netcoreapp3.1\ExercicioFConta.dll
+C:\temp\ws-vs2022\ExercicioFConta\ExercicioFConta\obj\Debug\netcoreapp3.1\ExercicioFConta.pdb
+C:\temp\ws-vs2022\ExercicioFConta\ExercicioFConta\obj\Debug\netcoreapp3.1\ExercicioFConta.genruntimeconfig.cache

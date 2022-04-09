@@ -1,0 +1,14 @@
+C:\temp\ws-vs2022\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.exe
+C:\temp\ws-vs2022\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.deps.json
+C:\temp\ws-vs2022\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.runtimeconfig.json
+C:\temp\ws-vs2022\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.dll
+C:\temp\ws-vs2022\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.pdb
+C:\temp\ws-vs2022\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.AssemblyInfo.cs
+C:\temp\ws-vs2022\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.dll
+C:\temp\ws-vs2022\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.pdb
+C:\temp\ws-vs2022\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8aee8d3a-a6b2-4200-b9b2-50ccbcb96e55": {
+      "ProjectGuid": "8aee8d3a-a6b2-4200-b9b2-50ccbcb96e55",
+      "DisplayName": "ExercicioFConta",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

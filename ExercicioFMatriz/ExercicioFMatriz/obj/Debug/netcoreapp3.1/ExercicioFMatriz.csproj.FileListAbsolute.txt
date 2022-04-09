@@ -1,0 +1,14 @@
+C:\temp\ws-vs2022\ExercicioFMatriz\ExercicioFMatriz\bin\Debug\netcoreapp3.1\ExercicioFMatriz.exe
+C:\temp\ws-vs2022\ExercicioFMatriz\ExercicioFMatriz\bin\Debug\netcoreapp3.1\ExercicioFMatriz.deps.json
+C:\temp\ws-vs2022\ExercicioFMatriz\ExercicioFMatriz\bin\Debug\netcoreapp3.1\ExercicioFMatriz.runtimeconfig.json
+C:\temp\ws-vs2022\ExercicioFMatriz\ExercicioFMatriz\bin\Debug\netcoreapp3.1\ExercicioFMatriz.runtimeconfig.dev.json
+C:\temp\ws-vs2022\ExercicioFMatriz\ExercicioFMatriz\bin\Debug\netcoreapp3.1\ExercicioFMatriz.dll
+C:\temp\ws-vs2022\ExercicioFMatriz\ExercicioFMatriz\bin\Debug\netcoreapp3.1\ExercicioFMatriz.pdb
+C:\temp\ws-vs2022\ExercicioFMatriz\ExercicioFMatriz\obj\Debug\netcoreapp3.1\ExercicioFMatriz.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ExercicioFMatriz\ExercicioFMatriz\obj\Debug\netcoreapp3.1\ExercicioFMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ExercicioFMatriz\ExercicioFMatriz\obj\Debug\netcoreapp3.1\ExercicioFMatriz.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ExercicioFMatriz\ExercicioFMatriz\obj\Debug\netcoreapp3.1\ExercicioFMatriz.AssemblyInfo.cs
+C:\temp\ws-vs2022\ExercicioFMatriz\ExercicioFMatriz\obj\Debug\netcoreapp3.1\ExercicioFMatriz.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ExercicioFMatriz\ExercicioFMatriz\obj\Debug\netcoreapp3.1\ExercicioFMatriz.dll
+C:\temp\ws-vs2022\ExercicioFMatriz\ExercicioFMatriz\obj\Debug\netcoreapp3.1\ExercicioFMatriz.pdb
+C:\temp\ws-vs2022\ExercicioFMatriz\ExercicioFMatriz\obj\Debug\netcoreapp3.1\ExercicioFMatriz.genruntimeconfig.cache

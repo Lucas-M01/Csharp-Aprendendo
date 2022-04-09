@@ -1,0 +1,14 @@
+C:\temp\ws-vs2022\Secao\Secao\obj\Debug\netcoreapp3.1\Secao.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\Secao\Secao\obj\Debug\netcoreapp3.1\Secao.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Secao\Secao\obj\Debug\netcoreapp3.1\Secao.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Secao\Secao\obj\Debug\netcoreapp3.1\Secao.AssemblyInfo.cs
+C:\temp\ws-vs2022\Secao\Secao\obj\Debug\netcoreapp3.1\Secao.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Secao\Secao\bin\Debug\netcoreapp3.1\Secao.exe
+C:\temp\ws-vs2022\Secao\Secao\bin\Debug\netcoreapp3.1\Secao.deps.json
+C:\temp\ws-vs2022\Secao\Secao\bin\Debug\netcoreapp3.1\Secao.runtimeconfig.json
+C:\temp\ws-vs2022\Secao\Secao\bin\Debug\netcoreapp3.1\Secao.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Secao\Secao\bin\Debug\netcoreapp3.1\Secao.dll
+C:\temp\ws-vs2022\Secao\Secao\bin\Debug\netcoreapp3.1\Secao.pdb
+C:\temp\ws-vs2022\Secao\Secao\obj\Debug\netcoreapp3.1\Secao.dll
+C:\temp\ws-vs2022\Secao\Secao\obj\Debug\netcoreapp3.1\Secao.pdb
+C:\temp\ws-vs2022\Secao\Secao\obj\Debug\netcoreapp3.1\Secao.genruntimeconfig.cache

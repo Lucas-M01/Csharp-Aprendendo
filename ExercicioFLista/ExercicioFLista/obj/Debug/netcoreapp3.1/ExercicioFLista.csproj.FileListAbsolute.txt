@@ -1,0 +1,14 @@
+C:\temp\ws-vs2022\ExercicioFLista\ExercicioFLista\bin\Debug\netcoreapp3.1\ExercicioFLista.exe
+C:\temp\ws-vs2022\ExercicioFLista\ExercicioFLista\bin\Debug\netcoreapp3.1\ExercicioFLista.deps.json
+C:\temp\ws-vs2022\ExercicioFLista\ExercicioFLista\bin\Debug\netcoreapp3.1\ExercicioFLista.runtimeconfig.json
+C:\temp\ws-vs2022\ExercicioFLista\ExercicioFLista\bin\Debug\netcoreapp3.1\ExercicioFLista.runtimeconfig.dev.json
+C:\temp\ws-vs2022\ExercicioFLista\ExercicioFLista\bin\Debug\netcoreapp3.1\ExercicioFLista.dll
+C:\temp\ws-vs2022\ExercicioFLista\ExercicioFLista\bin\Debug\netcoreapp3.1\ExercicioFLista.pdb
+C:\temp\ws-vs2022\ExercicioFLista\ExercicioFLista\obj\Debug\netcoreapp3.1\ExercicioFLista.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ExercicioFLista\ExercicioFLista\obj\Debug\netcoreapp3.1\ExercicioFLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ExercicioFLista\ExercicioFLista\obj\Debug\netcoreapp3.1\ExercicioFLista.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ExercicioFLista\ExercicioFLista\obj\Debug\netcoreapp3.1\ExercicioFLista.AssemblyInfo.cs
+C:\temp\ws-vs2022\ExercicioFLista\ExercicioFLista\obj\Debug\netcoreapp3.1\ExercicioFLista.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ExercicioFLista\ExercicioFLista\obj\Debug\netcoreapp3.1\ExercicioFLista.dll
+C:\temp\ws-vs2022\ExercicioFLista\ExercicioFLista\obj\Debug\netcoreapp3.1\ExercicioFLista.pdb
+C:\temp\ws-vs2022\ExercicioFLista\ExercicioFLista\obj\Debug\netcoreapp3.1\ExercicioFLista.genruntimeconfig.cache
