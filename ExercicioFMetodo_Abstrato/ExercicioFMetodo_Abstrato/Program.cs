@@ -61,7 +61,7 @@ namespace ExercicioFMetodo_Abstrato
             }
 
             Console.WriteLine();
-            Console.WriteLine($"TOTAL TAXES: {sum.ToString("F2", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"TOTAL TAXES: ${sum.ToString("F2", CultureInfo.InvariantCulture)}");
         }
     }
 }
